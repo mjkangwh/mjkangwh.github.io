@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## 강민지 이력서
 
 안녕하세요.
-### Markdown
+### 소속
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교
 
 ```markdown
 Syntax highlighted code block
